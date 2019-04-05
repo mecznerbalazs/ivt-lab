@@ -39,3 +39,4 @@ The project represents an alpha version of a spaceship.
 
 Dummy line here
 Conflict branchA
+New try to make this conflict work
